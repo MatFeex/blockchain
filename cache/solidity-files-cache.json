@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\mathi\\Documents\\dev\\5A\\Blockchain\\contracts\\Lock.sol": {
+      "lastModificationDate": 1700563444088,
+      "contentHash": "9c51e62729ad26779ba693887b0daed6",
+      "sourceName": "contracts/Lock.sol",
+      "solcConfig": {
+        "version": "0.7.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.7.4"
+      ],
+      "artifacts": [
+        "Lock"
+      ]
+    }
+  }
+}
